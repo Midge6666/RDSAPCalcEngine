@@ -2,87 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcdd22a2-594e-4966-be2c-b0e90d09111b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/appendix_g.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/appendix_n.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_n_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/application_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ApplicationTest/application_factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/building_envelope.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/calculation_engine.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ApplicationTest/calculation_engine_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/command.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralTest/command_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/composite_command.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/composite_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/copy_file_command.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/core_dwelling_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/core_dwelling_factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/create_file_command.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/delete_file_command.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/dwelling.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/dwelling_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/General/factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralTest/factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralTest/factory_test_rspec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/floor.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/heating_system.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/improvement.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/improvement_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_a2_flat_roof_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_a3_roof_room_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_a_loft_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_b_cavity_wall_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_c_hot_water_cylinder.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_d_draught_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_f_cylinder_stat.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_g_central_heating.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_h_warm_air.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_j_biomass_boiler.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_j_boiler_upgrade_same_fuel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_k_biomass_room_heater.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_l_storage_heater.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_m_warm_air.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_n_solar_water_heating.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_o2_triple_glazing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_o_double_glazing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_p_secondary_glazing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_q1_solid_wall_other_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_q2_external_cavity_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_q_solid_wall_brick_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_r_condensing_oil_boiler.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_s_condensing_gas_boiler.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_t2_F_G_H_R_S.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_t_switch_fuel_condensing_gas_boiler.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_u_photo_voltaic.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_v2_mast_wind_turbine.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_v_wind_turbine.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_w_floor_insulation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_x_insulated_doors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_y_W_H_R_S.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_z1_pump_alt.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_z2_ground_source_alt.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_z3_micro_chp_alt.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_z4_pump_ground_source_radiator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImprovementEngine/measure_z5_pump_ground_source_underfloor_alt.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/primary_heating.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/roof.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/CoreDwelling/secondary_heating.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Worksheets/worksheet.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Worksheets/worksheet_a.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Worksheets/worksheet_result.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/WorksheetsTest/worksheet_result_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/WorksheetsTest/worksheet_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Worksheets/worksheets_factory.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/WorksheetsTest/worksheets_factory_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreTest/WorksheetsTest/worksheets_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/sap_heating_system_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/sap_structure_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/sap_water_heating_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table2.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table2a.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calculations/calculation_factory.rb" afterPath="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RDSAPCalcEngine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376411879370" ignored="false" />
+    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376479814575" ignored="false" />
+    <file path="/Table2.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481963727" ignored="false" />
+    <file path="/definitions.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376473601128" ignored="false" />
+    <file path="/table2a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485446761" ignored="false" />
+    <file path="/calculation_factory.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376479484025" ignored="false" />
+    <file path="/calculation_factory_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376479560268" ignored="false" />
+    <file path="/temp.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376479860155" ignored="false" />
+    <file path="/table2_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481584211" ignored="false" />
+    <file path="/table2a_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485618301" ignored="false" />
+    <file path="/sap_water_heating_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376486987787" ignored="false" />
+    <file path="/sap_structure_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376489186160" ignored="false" />
+    <file path="/sap_heating_system_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376493439115" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,28 +46,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application_factory_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ApplicationTest/application_factory_test.rb">
+      <file leaf-file-name="calculation_factory_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="65" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+            <state line="49" column="0" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="improvement_factory_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb">
+      <file leaf-file-name="appendix_g_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="42" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factory_test_rspec.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GeneralTest/factory_test_rspec.rb">
+      <file leaf-file-name="table2_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculationsTest/table2_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="80" selection-start="177" selection-end="177" vertical-scroll-proportion="0.3090909">
+            <state line="64" column="86" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table2a_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculationsTest/table2a_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="44" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table2.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculations/table2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="61" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table2a.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculations/table2a.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="73" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sap_water_heating_types.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculations/sap_water_heating_types.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sap_structure_types.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculations/sap_structure_types.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="176" column="4" selection-start="3770" selection-end="3770" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sap_heating_system_types.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Calculations/sap_heating_system_types.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="368" column="0" selection-start="12510" selection-end="12510" vertical-scroll-proportion="11.649907">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appendix_n.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculations/appendix_n.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,11 +157,31 @@
       <MyDateState />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Core/CoreDwelling/core_dwelling_factory.rb" />
+        <option value="$PROJECT_DIR$/Core/CoreDwelling/Table2.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/definitions.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/sap_water_heating_types.rb" />
+        <option value="$PROJECT_DIR$/Calculations/Table2.rb" />
+        <option value="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/table2_test.rb" />
+        <option value="$PROJECT_DIR$/Calculations/table2.rb" />
+        <option value="$PROJECT_DIR$/Calculations/table2a.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" />
+        <option value="$PROJECT_DIR$/Calculations/sap_water_heating_types.rb" />
+        <option value="$PROJECT_DIR$/Calculations/sap_structure_types.rb" />
+        <option value="$PROJECT_DIR$/Calculations/sap_heating_system_types.rb" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="240" />
-    <option name="y" value="53" />
-    <option name="width" value="1149" />
-    <option name="height" value="913" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -420,6 +447,15 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\CalculationsTest" />
+      <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\Core\CoreDwelling" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\Calculations" />
+    </key>
+  </component>
   <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.All tests in: RDSAPCalcEngine">
     <configuration default="false" name="All tests in: RDSAPCalcEngine" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
@@ -548,7 +584,11 @@
       <created>1376411508584</created>
       <updated>1376411508584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New files">
+      <created>1376479827250</created>
+      <updated>1376479827250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -572,24 +612,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="53" width="1149" height="913" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32947233" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28764045" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3275069" sideWeight="0.6705277" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21787025" sideWeight="0.6707865" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -657,37 +697,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ApplicationTest/application_factory_test.rb">
+    <entry file="file://$PROJECT_DIR$/Core/CoreDwelling/building_envelope.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb">
+    <entry file="file://$PROJECT_DIR$/Core/CoreDwelling/heating_system.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ApplicationTest/application_factory_test.rb">
+    <entry file="file://$PROJECT_DIR$/General/composite_command.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="65" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+        <state line="4" column="54" selection-start="28" selection-end="82" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb">
+    <entry file="file://$PROJECT_DIR$/Calculations/calculation_factory.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="42" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
+        <state line="37" column="5" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeneralTest/factory_test_rspec.rb">
+    <entry file="file://$PROJECT_DIR$/Calculations/appendix_g.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="80" selection-start="177" selection-end="177" vertical-scroll-proportion="0.3090909">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Worksheets/worksheet.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/table2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="61" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/table2a.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="73" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculationsTest/table2a_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="44" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/appendix_n.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculationsTest/table2_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="86" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/sap_water_heating_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/sap_structure_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="4" selection-start="3770" selection-end="3770" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/sap_heating_system_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="368" column="0" selection-start="12510" selection-end="12510" vertical-scroll-proportion="11.649907">
           <folding />
         </state>
       </provider>

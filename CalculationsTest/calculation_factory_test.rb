@@ -29,6 +29,22 @@ class CalculationFactoryTest < Test::Unit::TestCase
     assert_equal AppendixN, item.class
   end
 
+  def test_get_table2
+    calculationFactory = CalculationFactory.instance
+
+    item = calculationFactory.new_table2
+
+    assert_equal Table2, item.class
+  end
+
+  def test_get_table2a
+    calculationFactory = CalculationFactory.instance
+
+    item = calculationFactory.new_table2a
+
+    assert_equal Table2a, item.class
+  end
+
 end
 
 
