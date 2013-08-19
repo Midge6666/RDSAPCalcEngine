@@ -5,10 +5,10 @@ SAP_HOT_WATER_SYSTEM =
     HWS_FROM_ALTERNATE_MAIN_SYSTEM: 914,
     HWS_FROM_SECONDARY_SYSTEM:      902,
 
-    HWS_ELEC_IMMERSION:             903,
+    HWS_ELECTRIC_IMMERSION:         903,
     HWS_GAS_SINGLE_POINT:           907,		#/* instant */
     HWS_GAS_MULTI_POINT:            908,		#/* instant */
-    HWS_ELEC_INSTANT:               909,		#/* instant */
+    HWS_ELECTRIC_INSTANT:           909,		#/* instant */
 
     HWS_GAS_CIRCULATOR:             911,
     HWS_OIL_CIRCULATOR:             912,

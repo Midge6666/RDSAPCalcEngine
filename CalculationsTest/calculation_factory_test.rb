@@ -45,6 +45,37 @@ class CalculationFactoryTest < Test::Unit::TestCase
     assert_equal Table2a, item.class
   end
 
+  def test_get_table10
+    calculationFactory = CalculationFactory.instance
+
+    item = calculationFactory.new_table10
+
+    assert_equal Table10, item.class
+  end
+
+  def test_get_table4a
+    calculationFactory = CalculationFactory.instance
+
+    item = calculationFactory.new_table4a
+
+    assert_equal Table4a, item.class
+  end
+
+  def test_get_space_heating_info
+    calculationFactory = CalculationFactory.instance
+
+    heatingSystemClass = HEATING_SYSTEM_CLASS[:HSC_ELECTRIC_UNDERFLOOR]
+    pre98 = true
+    item = calculationFactory.new_space_heating_info(heatingSystemClass, pre98)
+
+    assert_equal SpaceHeatingInfo, item.class
+    assert_equal true, item.IsClass(heatingSystemClass)
+
+    underFloorHeatingSystemClass = HEATING_SYSTEM_CLASS[:HSC_WARM_AIR]
+    assert_equal false, item.IsClass(underFloorHeatingSystemClass)
+    assert_equal true, item.IsPre98System
+  end
+
 end
 
 

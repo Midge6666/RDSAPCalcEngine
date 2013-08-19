@@ -7,6 +7,9 @@ require File.dirname(__FILE__) + '/../Calculations/appendix_g'
 require File.dirname(__FILE__) + '/../Calculations/appendix_n'
 require File.dirname(__FILE__) + '/../Calculations/table2'
 require File.dirname(__FILE__) + '/../Calculations/Table2a'
+require File.dirname(__FILE__) + '/../Calculations/Table10'
+require File.dirname(__FILE__) + '/../Calculations/Table4a'
+require File.dirname(__FILE__) + '/../Calculations/space_heating_info'
 
 class CalculationFactory
 
@@ -35,5 +38,17 @@ class CalculationFactory
 
   def new_table2a
     return Table2a.new
+  end
+
+  def new_table10
+    return Table10.new
+  end
+
+  def new_table4a
+    return Table4a.new
+  end
+
+  def new_space_heating_info(heatingSystemClass, pre98)
+    return SpaceHeatingInfo.new(heatingSystemClass, pre98)
   end
 end
