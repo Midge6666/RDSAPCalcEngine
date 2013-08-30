@@ -2,39 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcdd22a2-594e-4966-be2c-b0e90d09111b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/john_midgley.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/space_heating_info.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table10.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table10_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4a.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/result_data.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/resultdata_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4d.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4d_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4e.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4e_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4g.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4g_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4h.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4h_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table7.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table7_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table8.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table8_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/appendix_n_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_n_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calculations/calculation_factory.rb" afterPath="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calculations/sap_heating_system_types.rb" afterPath="$PROJECT_DIR$/Calculations/sap_heating_system_types.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calculations/sap_water_heating_types.rb" afterPath="$PROJECT_DIR$/Calculations/sap_water_heating_types.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/core_dwelling_factory_test.rb" afterPath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/core_dwelling_factory_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb" afterPath="$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/john_midgley.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/john_midgley.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table10_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table10_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="eded89d9-f28a-4207-a233-ae689866b710" name="Failed commit: Default" comment="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/BuildingPart/add_wall_insulation_thickness_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/field_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/field_controller_manager.rb" />
     </list>
     <ignored path="RDSAPCalcEngine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376493595857" ignored="false" />
+    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377861975599" ignored="false" />
     <file path="/Table2.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481963727" ignored="false" />
     <file path="/definitions.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376473601128" ignored="false" />
     <file path="/table2a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485446761" ignored="false" />
-    <file path="/calculation_factory.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376927579514" ignored="false" />
-    <file path="/calculation_factory_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376928205467" ignored="false" />
+    <file path="/calculation_factory.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377081740024" ignored="false" />
+    <file path="/calculation_factory_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377081788487" ignored="false" />
     <file path="/temp.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376479860155" ignored="false" />
-    <file path="/table2_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481584211" ignored="false" />
-    <file path="/table2a_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485618301" ignored="false" />
+    <file path="/table2_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989175973" ignored="false" />
+    <file path="/table2a_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989084071" ignored="false" />
     <file path="/sap_water_heating_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376926432569" ignored="false" />
     <file path="/sap_structure_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376489186160" ignored="false" />
     <file path="/sap_heating_system_types.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376922741973" ignored="false" />
     <file path="/table10.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376496748524" ignored="false" />
-    <file path="/table10_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376496834925" ignored="false" />
+    <file path="/table10_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989113070" ignored="false" />
     <file path="/space_heating_info.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376928184919" ignored="false" />
-    <file path="/space_heating_info_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376927717359" ignored="false" />
+    <file path="/space_heating_info_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989398843" ignored="false" />
     <file path="/table4a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376927493988" ignored="false" />
-    <file path="/table4a_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376928891460" ignored="false" />
+    <file path="/table4a_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989183985" ignored="false" />
+    <file path="/table4d.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376991632691" ignored="false" />
+    <file path="/table4d_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376992654975" ignored="false" />
+    <file path="/appendix_g_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989164729" ignored="false" />
+    <file path="/appendix_n_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989344392" ignored="false" />
+    <file path="/core_dwelling_factory_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376989646367" ignored="false" />
+    <file path="/table7.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376994107393" ignored="false" />
+    <file path="/table7_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377002982813" ignored="false" />
+    <file path="/result_data.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377002953684" ignored="false" />
+    <file path="/resultdata_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377003087597" ignored="false" />
+    <file path="/improvement_factory_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377003287365" ignored="false" />
+    <file path="/table8.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377007921833" ignored="false" />
+    <file path="/table8_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377009221821" ignored="false" />
+    <file path="/table4e.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377080731843" ignored="false" />
+    <file path="/table4e_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377081422626" ignored="false" />
+    <file path="/table4g.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377082153199" ignored="false" />
+    <file path="/table4h.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377083523254" ignored="false" />
+    <file path="/table4g_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377082444579" ignored="false" />
+    <file path="/table4h_test.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377084773040" ignored="false" />
+    <file path="/field_controller.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377853275168" ignored="false" />
+    <file path="/field_controller_manager.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377853056492" ignored="false" />
+    <file path="/appendix_h.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377865006669" ignored="false" />
+    <file path="/appendix_f.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377861798806" ignored="false" />
+    <file path="/appendix_g.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377869134908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,91 +97,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="table4a.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculations/table4a.rb">
+      <file leaf-file-name="appendix_h.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_h.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="53" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+            <state line="83" column="82" selection-start="4445" selection-end="4445" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table10_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalculationsTest/table10_test.rb">
+      <file leaf-file-name="appendix_g.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_g.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="48" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+            <state line="227" column="66" selection-start="7500" selection-end="7500" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table2a_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalculationsTest/table2a_test.rb">
+      <file leaf-file-name="table6b.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6b.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="56" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
+            <state line="73" column="3" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="space_heating_info.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculations/space_heating_info.rb">
+      <file leaf-file-name="table6c.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6c.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="57" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+            <state line="3" column="2" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculation_factory.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculations/calculation_factory.rb">
+      <file leaf-file-name="table6d.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6d.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="69" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+            <state line="19" column="78" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculation_factory_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb">
+      <file leaf-file-name="table6a.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6a.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="74" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0">
+            <state line="21" column="69" selection-start="2807" selection-end="2807" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="space_heating_info_test.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb">
+      <file leaf-file-name="appendix_d.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_d.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="38" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0">
+            <state line="319" column="3" selection-start="10075" selection-end="10075" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table4a_test.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CalculationsTest/table4a_test.rb">
+      <file leaf-file-name="table9.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="46" selection-start="3121" selection-end="3121" vertical-scroll-proportion="2.9054546">
+            <state line="16" column="51" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sap_heating_system_types.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculations/sap_heating_system_types.rb">
+      <file leaf-file-name="table9a.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9a.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="67" selection-start="86" selection-end="86" vertical-scroll-proportion="-2.04">
+            <state line="4" column="36" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sap_water_heating_types.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculations/sap_water_heating_types.rb">
+      <file leaf-file-name="table9b.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9b.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="60" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+            <state line="15" column="77" selection-start="355" selection-end="355" vertical-scroll-proportion="0.4458042">
               <folding />
             </state>
           </provider>
@@ -168,22 +211,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Calculations/Table2.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/table2_test.rb" />
-        <option value="$PROJECT_DIR$/Calculations/table2.rb" />
-        <option value="$PROJECT_DIR$/Calculations/table2a.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" />
-        <option value="$PROJECT_DIR$/Calculations/sap_structure_types.rb" />
-        <option value="$PROJECT_DIR$/Calculations/table10.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/table10_test.rb" />
-        <option value="$PROJECT_DIR$/Calculations/sap_heating_system_types.rb" />
-        <option value="$PROJECT_DIR$/Calculations/sap_water_heating_types.rb" />
-        <option value="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" />
-        <option value="$PROJECT_DIR$/Calculations/space_heating_info.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
-        <option value="$PROJECT_DIR$/Calculations/table4a.rb" />
-        <option value="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" />
+        <option value="$PROJECT_DIR$/Calculations/table4h.rb" />
+        <option value="$PROJECT_DIR$/CalculationsTest/table4h_test.rb" />
+        <option value="$PROJECT_DIR$/Respository/FieldValidation/add_wall_insulation_thickness_controller.rb" />
+        <option value="$PROJECT_DIR$/Respository/FieldValidation/field_controller_manager.rb" />
+        <option value="$PROJECT_DIR$/Respository/FieldValidation/field_controller.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/appendix_f.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/appendix_h.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/appendix_g.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table6b.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table6c.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table6d.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table6a.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/appendix_d.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table9.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table9a.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table9b.rb" />
       </list>
     </option>
   </component>
@@ -219,6 +262,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,6 +304,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FieldValidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Calculations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -445,7 +525,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,6 +533,7 @@
     <property name="options.lastSelected" value="settings.github" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -463,6 +543,7 @@
       <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\Core\CoreDwelling" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\Respository\FieldValidation\BuildingPart" />
       <recent name="C:\Users\john.midgley\Desktop\GitHub\RDSAPCalcEngine\Calculations" />
     </key>
   </component>
@@ -602,7 +683,11 @@
       <created>1376494488953</created>
       <updated>1376494488953</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1376928973824</created>
+      <updated>1376928973824</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -629,21 +714,21 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28764045" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28764045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21787025" sideWeight="0.6707865" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25764993" sideWeight="0.6719101" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3280899" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -720,114 +805,114 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/field_controller_manager.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/field_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations/table4d.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/sap_structure_types.rb">
+    <entry file="file://$PROJECT_DIR$/CalculationsTest/table4d_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="4" selection-start="3770" selection-end="3770" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/table2_test.rb">
+    <entry file="file://$PROJECT_DIR$/General/command.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="92" selection-start="1786" selection-end="1786" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/table10.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_f.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="25" selection-start="1378" selection-end="1397" vertical-scroll-proportion="0.0">
+        <state line="4" column="48" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/table2a.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_h.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="73" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+        <state line="83" column="82" selection-start="4445" selection-end="4445" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/table2.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_g.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="61" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+        <state line="227" column="66" selection-start="7500" selection-end="7500" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/sap_heating_system_types.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6b.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="67" selection-start="86" selection-end="86" vertical-scroll-proportion="-2.04">
+        <state line="73" column="3" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/sap_water_heating_types.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6c.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="60" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+        <state line="3" column="2" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/table10_test.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6d.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="48" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+        <state line="19" column="78" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/table2a_test.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table6a.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="56" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
+        <state line="21" column="69" selection-start="2807" selection-end="2807" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/calculation_factory.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/appendix_d.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="69" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+        <state line="319" column="3" selection-start="10075" selection-end="10075" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="38" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0">
+        <state line="16" column="51" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/space_heating_info.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9a.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="57" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+        <state line="4" column="36" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table9b.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="74" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations/table4a.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="53" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CalculationsTest/table4a_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="46" selection-start="3121" selection-end="3121" vertical-scroll-proportion="2.9054546">
+        <state line="15" column="77" selection-start="355" selection-end="355" vertical-scroll-proportion="0.4458042">
           <folding />
         </state>
       </provider>

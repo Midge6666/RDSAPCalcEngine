@@ -12,7 +12,7 @@ class Table4aTest < Test::Unit::TestCase
 
     item = calculationFactory.new_table4a
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal Table4a, item.class
   end
 

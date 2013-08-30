@@ -11,7 +11,7 @@ class Table2Test < Test::Unit::TestCase
 
     item = calculationFactory.new_table2
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal Table2, item.class
   end
 

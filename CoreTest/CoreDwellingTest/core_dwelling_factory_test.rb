@@ -19,7 +19,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_dwelling
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
   end
 
   def test_get_building_envelope
@@ -28,7 +28,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
     groundFloorInsulated = true
     item = coreFactory.new_building_envelope(groundFloorInsulated)
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal BuildingEnvelope, item.class
   end
 
@@ -37,7 +37,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_floor
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal Floor, item.class
   end
 
@@ -46,7 +46,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_roof
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal Roof, item.class
   end
 
@@ -55,7 +55,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_heating_system
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal HeatingSystem, item.class
   end
 
@@ -64,7 +64,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_primary_heating
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal PrimaryHeating, item.class
   end
 
@@ -73,7 +73,7 @@ class CalculationFactoryTest < Test::Unit::TestCase
 
     item = coreFactory.new_secondary_heating
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal SecondaryHeating, item.class
   end
 

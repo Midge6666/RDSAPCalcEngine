@@ -12,11 +12,11 @@ class SpaceHeatingInfoTest < Test::Unit::TestCase
 
     heatingSystem = HEATING_SYSTEM_CLASS[:HSC_STORAGE_HEATING]
     pre98 = true
-    item = calculationFactory.new_space_heating_info (heatingSystem, pre98)
+    item = calculationFactory.new_space_heating_info(heatingSystem, pre98)
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal SpaceHeatingInfo, item.class
-    assert_equal true, item.IsPre98
+    assert_equal true, item.IsPre98System
   end
 
   def test_is_heating_system_class
@@ -27,7 +27,7 @@ class SpaceHeatingInfoTest < Test::Unit::TestCase
     item = calculationFactory.new_space_heating_info(heatingSystem, pre98)
 
     assert_equal true, item.IsClass(heatingSystem)
-    assert_equal false, item.IsPre98
+    assert_equal false, item.IsPre98System
   end
 
 end

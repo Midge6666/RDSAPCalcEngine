@@ -11,7 +11,7 @@ class AppendixGTest < Test::Unit::TestCase
 
     item = calculationFactory.new_appendix_g
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal AppendixG, item.class
   end
 

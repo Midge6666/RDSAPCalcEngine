@@ -11,7 +11,7 @@ class AppendixNTest < Test::Unit::TestCase
 
     item = calculationFactory.new_appendix_n
 
-    assert_not_equal item, nil
+    assert_not_equal item, NIL
     assert_equal AppendixN, item.class
   end
 
