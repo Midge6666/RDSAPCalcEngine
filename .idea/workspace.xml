@@ -2,42 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcdd22a2-594e-4966-be2c-b0e90d09111b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/result_data.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/resultdata_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4d.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4d_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4e.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4e_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4g.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4g_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table4h.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table4h_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table7.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table7_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculations/table8.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationsTest/table8_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_g_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/appendix_n_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/appendix_n_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calculations/calculation_factory.rb" afterPath="$PROJECT_DIR$/Calculations/calculation_factory.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/calculation_factory_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/core_dwelling_factory_test.rb" afterPath="$PROJECT_DIR$/CoreTest/CoreDwellingTest/core_dwelling_factory_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb" afterPath="$PROJECT_DIR$/ImprovementEngineTest/improvement_factory_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/john_midgley.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/john_midgley.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/space_heating_info_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table10_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table10_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table2_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table2a_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" afterPath="$PROJECT_DIR$/CalculationsTest/table4a_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="eded89d9-f28a-4207-a233-ae689866b710" name="Failed commit: Default" comment="Started Table lookups and defined Heating System types, water types and sap structure types">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/BuildingPart/add_wall_insulation_thickness_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/field_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Respository/FieldValidation/field_controller_manager.rb" />
     </list>
     <ignored path="RDSAPCalcEngine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378114450805" ignored="false" />
+    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378123069411" ignored="false" />
     <file path="/Table2.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481963727" ignored="false" />
     <file path="/definitions.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376473601128" ignored="false" />
     <file path="/table2a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485446761" ignored="false" />
@@ -107,15 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="occupancy.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/Calculations/occupancy.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="349" column="3" selection-start="11298" selection-end="11298" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="photo_voltaic_provider.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Respository/Calculations/photo_voltaic_provider.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -188,10 +148,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="heating_pattern_data.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="heating_pattern_data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Respository/Calculations/heating_pattern_data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8892922">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cylinder_size_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/cylinder_size_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="0.020481927">
               <folding />
             </state>
           </provider>
@@ -330,6 +299,10 @@
               <option name="myItemId" value="Respository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FieldValidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -345,7 +318,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculations" />
+              <option name="myItemId" value="FieldValidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatingDetails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FieldValidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuildingPart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RDSAPCalcEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,12 +549,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -701,7 +714,35 @@
       <created>1378114470482</created>
       <updated>1378114470482</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378122563390</created>
+      <updated>1378122563390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378122741893</created>
+      <updated>1378122741893</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378122784638</created>
+      <updated>1378122784638</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378123014324</created>
+      <updated>1378123014324</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378123039856</created>
+      <updated>1378123039856</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378123055964</created>
+      <updated>1378123055964</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378123091229</created>
+      <updated>1378123091229</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -733,11 +774,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25764993" sideWeight="0.6719101" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2607099" sideWeight="0.71235955" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3280899" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280899" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -819,13 +860,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Respository/Calculations/structural_data.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="3" selection-start="2421" selection-end="2421" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Respository/Calculations/table11.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="3" selection-start="1498" selection-end="1498" vertical-scroll-proportion="0.0">
@@ -926,7 +960,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Respository/Calculations/heating_pattern_data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8892922">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/cylinder_size_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="0.020481927">
           <folding />
         </state>
       </provider>
