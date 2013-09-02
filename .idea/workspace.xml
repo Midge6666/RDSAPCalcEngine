@@ -37,7 +37,7 @@
     </list>
     <ignored path="RDSAPCalcEngine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1377880891856" ignored="false" />
+    <file path="/Dummy.txt" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378114450805" ignored="false" />
     <file path="/Table2.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376481963727" ignored="false" />
     <file path="/definitions.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376473601128" ignored="false" />
     <file path="/table2a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1376485446761" ignored="false" />
@@ -86,6 +86,8 @@
     <file path="/table6b.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378107827221" ignored="false" />
     <file path="/table6a.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378107854490" ignored="false" />
     <file path="/appendix_d.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378108941727" ignored="false" />
+    <file path="/band_evaluator.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378116518000" ignored="false" />
+    <file path="/co2_calculation.rb" changelist="fcdd22a2-594e-4966-be2c-b0e90d09111b" time="1378121929955" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,91 +107,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="primary_heating_type_contoller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_type_contoller.rb">
+      <file leaf-file-name="occupancy.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/occupancy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="3" selection-start="5001" selection-end="5001" vertical-scroll-proportion="0.0">
+            <state line="349" column="3" selection-start="11298" selection-end="11298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="primary_system_type_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_system_type_controller.rb">
+      <file leaf-file-name="photo_voltaic_provider.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/photo_voltaic_provider.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="62" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+            <state line="30" column="3" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secondary_heating_fuel_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_fuel_controller.rb">
+      <file leaf-file-name="sap_calculation.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/sap_calculation.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="77" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.0">
+            <state line="47" column="3" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secondary_heating_present_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_present_controller.rb">
+      <file leaf-file-name="sap_table_record.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/sap_table_record.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secondary_heating_system_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_system_controller.rb">
+      <file leaf-file-name="solar_gains.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/solar_gains.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="58" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
+            <state line="20" column="3" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sedbuk_fuel_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_fuel_controller.rb">
+      <file leaf-file-name="efficiency_calculator.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/efficiency_calculator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sedbuk_boiler_id_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_boiler_id_controller.rb">
+      <file leaf-file-name="band_evaluator.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/band_evaluator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="72" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tfa_heated_system_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/tfa_heated_system_controller.rb">
+      <file leaf-file-name="co2_calculation.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/co2_calculation.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="3" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.0">
+            <state line="44" column="65" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="water_heating_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_controller.rb">
+      <file leaf-file-name="heat_source_data.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/heat_source_data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="84" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="water_heating_fuel_controller.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_fuel_controller.rb">
+      <file leaf-file-name="heating_pattern_data.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Respository/Calculations/heating_pattern_data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="60" selection-start="586" selection-end="586" vertical-scroll-proportion="0.41078067">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8892922">
               <folding />
             </state>
           </provider>
@@ -219,22 +221,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/mains_gas_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/number_of_primary_systems_contoller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/open_fire_places_contoller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_fuel_contoller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_system_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_system_sub_type_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_type_contoller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_system_type_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_fuel_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_present_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_system_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_fuel_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_boiler_id_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/tfa_heated_system_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_controller.rb" />
-        <option value="$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_fuel_controller.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/heat_source_data.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/lighting_provider.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/mechanical_ventilation_data.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/mechanical_vent_provider.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/micro_turbine_provider.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/occupancy.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/photo_voltaic_provider.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/space_heating_data.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/product_database_record.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/sap_calculation.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/solar_gains.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/space_heating_provider.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/space_heating_requirement.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/structural_data.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/table11.rb" />
+        <option value="$PROJECT_DIR$/Respository/Calculations/co2_calculation.rb" />
       </list>
     </option>
   </component>
@@ -326,32 +328,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FieldValidation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RDSAPCalcEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RDSAPCalcEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FieldValidation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeatingDetails" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -721,7 +697,11 @@
       <created>1377880910894</created>
       <updated>1377880910894</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started Table lookups and defined Heating System types, water types and sap structure types">
+      <created>1378114470482</created>
+      <updated>1378114470482</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -839,114 +819,114 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/mains_gas_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/structural_data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="3" selection-start="2083" selection-end="2083" vertical-scroll-proportion="0.0">
+        <state line="87" column="3" selection-start="2421" selection-end="2421" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/number_of_primary_systems_contoller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/table11.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+        <state line="47" column="3" selection-start="1498" selection-end="1498" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/open_fire_places_contoller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_fuel_contoller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/fabric_loss.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="3" selection-start="7659" selection-end="7659" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_system_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/lighting_provider.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="275" column="3" selection-start="22143" selection-end="22143" vertical-scroll-proportion="0.0">
+        <state line="19" column="3" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_system_sub_type_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/mechanical_ventilation_data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="104" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
+        <state line="130" column="3" selection-start="3615" selection-end="3615" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_heating_type_contoller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/occupancy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="3" selection-start="5001" selection-end="5001" vertical-scroll-proportion="0.0">
+        <state line="349" column="3" selection-start="11298" selection-end="11298" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/primary_system_type_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/photo_voltaic_provider.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="62" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+        <state line="30" column="3" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_fuel_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/sap_calculation.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="77" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.0">
+        <state line="47" column="3" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_present_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/sap_table_record.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/secondary_heating_system_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/solar_gains.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="58" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
+        <state line="20" column="3" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_fuel_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/efficiency_calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/sedbuk_boiler_id_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/band_evaluator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="72" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/tfa_heated_system_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/co2_calculation.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="3" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.0">
+        <state line="44" column="65" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/heat_source_data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="84" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Respository/FieldValidation/HeatingDetails/water_heating_fuel_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Respository/Calculations/heating_pattern_data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="60" selection-start="586" selection-end="586" vertical-scroll-proportion="0.41078067">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8892922">
           <folding />
         </state>
       </provider>
